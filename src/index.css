@@ -12,20 +12,19 @@ code {
     monospace;
 }
 
-.wrapper{
-  padding-top: 5rem;
-  margin: 0 auto;
-  width: 600px;
+.wrapper {
+ margin: 0 auto;
+ width:600px;
+padding-top: 5rem;
+color:rgb(70, 70, 249);
 }
 
-.rm {
-background: red;
+.click {
 border-radius: 50%;
-color: #fff;
-border:none;
-
+color:whitesmoke;
+background-color: rgb(70, 70, 249);
 }
 
-.done {
-text-decoration: line-through;
+.inner{
+  text-align:center;
 }
